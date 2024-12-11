@@ -76,7 +76,7 @@ pip install -r requirements.txt
   ```
 
 ## ⚙️ Configuration
-The script requires a `config.ini` file to define customizable settings. Below is an example configuration template:
+  The script requires a `config.ini` file to define customizable settings. Below is an example configuration template:
 ```bash
 [settings]
 change_password = true
@@ -92,12 +92,12 @@ qusetions_random = true
 qusetions = Answer1,Answer2,Answer3
 ```
 ## 🚀 Usage
-1. Enter the name of your `.csv` file containing the account details when prompted.
-2. Follow the on-screen instructions for account processing.
-3. Outputs and logs will be saved in `.csv` files for successful, locked, or problematic accounts.
+  1. Enter the name of your `.csv` file containing the account details when prompted.
+  2. Follow the on-screen instructions for account processing.
+  3. Outputs and logs will be saved in `.csv` files for successful, locked, or problematic accounts.
 
 ## 📬 Contact
-Author: Mustafa Nasser
-For queries or updates, feel free to contact me at:
-📧 discord: johnwickk__
-📱 telegram: @itz36BoDa
+  Author: Mustafa Nasser
+  For queries or updates, feel free to contact me at:
+  📧 discord: johnwickk__
+  📱 telegram: @itz36BoDa
