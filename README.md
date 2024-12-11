@@ -53,10 +53,11 @@ pip install -r requirements.txt
 ## 🛠 Installation
 
 1. **Clone the Repository:**
-bash
+```bash
    git clone https://github.com/xx36Mostafa/AppleAccountManager.git
    cd AppleAccountManager
-2. **Install Dependencies**::
+```
+2. **Install Dependencies**:
    Make sure you have Python installed. Then, install the required libraries using pip:
   ```bash
   pip install -r requirements.txt
